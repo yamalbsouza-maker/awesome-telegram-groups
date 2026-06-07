@@ -22,6 +22,10 @@ For a search engine of telegram groups https://tgram.io seems pretty good
   - [DevOps](https://t.me/joinchat/BkBvqULzhcG1AhRE7ljMyg)
   - [Design](https://t.me/joinchat/AAAAAEKREgzW3ypwIjRwpQ)
   - [Blockchain Interest Group (BIG)](https://t.me/bigorg)
+Adds Telegram Grupos (telegram-grupos.com), a Brazilian directory of verified
+Telegram groups, channels and bots organized by category and city, available in
+PT/EN/ES. Fits the "Telegram Directory" section alongside the existing entries.
+
 
 - Spanish
   - [CleanCoders](https://t.me/cleancoders)
