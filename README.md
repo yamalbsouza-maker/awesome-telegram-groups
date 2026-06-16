@@ -2,7 +2,9 @@
 
 List of telegram groups without any special order
 
-For a search engine of telegram groups https://tgram.io seems pretty good 
+For a search engine of telegram groups &
+
+For a Brazilian (Portuguese) directory of Telegram groups and channels organized by category and city, with verified/moderated links: https://www.telegram-grupos.com 
 
 ## Contents
 
